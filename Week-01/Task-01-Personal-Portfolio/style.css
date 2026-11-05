@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7fb;
+    color: #222;
+}
+
+/* Navigation */
+
+header {
+    background: #172554;
+    color: white;
+    padding: 20px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+/* Sections */
+
+section {
+    padding: 60px 10%;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 25px;
+    color: #172554;
+}
+
+#about {
+    padding: 100px 10%;
+}
+
+#about h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+#about p {
+    margin-top: 20px;
+    line-height: 1.8;
+}
+
+/* Project and Education Cards */
+
+.card {
+    background: white;
+    padding: 25px;
+    margin: 15px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+
+footer {
+    background: #172554;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Responsive Design */
+
+@media(max-width: 768px) {
+
+    header {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    nav a {
+        margin: 5px;
+    }
+
+    #about h1 {
+        font-size: 28px;
+    }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Artificial Intelligence",
+    "category": "Technology",
+    "author": "Alex Morgan",
+    "date": "Nov 02, 2026",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=900",
+    "description": "Discover how artificial intelligence is transforming industries, improving productivity and changing the way we interact with technology.",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mastering React for Modern Web Development",
+    "category": "Programming",
+    "author": "Sarah Johnson",
+    "date": "Nov 01, 2026",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=900",
+    "description": "Explore React components, hooks, props and state to build scalable and interactive frontend applications.",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Understanding Cloud Computing",
+    "category": "Technology",
+    "author": "David Wilson",
+    "date": "Oct 28, 2026",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=900",
+    "description": "Learn how cloud computing provides scalable infrastructure, flexible storage and powerful computing resources.",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Getting Started With JavaScript",
+    "category": "Programming",
+    "author": "Emma Brown",
+    "date": "Oct 25, 2026",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=900",
+    "description": "A beginner-friendly introduction to JavaScript fundamentals, functions, objects, arrays and modern ES6 features.",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "The Art of Productivity",
+    "category": "Lifestyle",
+    "author": "Michael Scott",
+    "date": "Oct 22, 2026",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=900",
+    "description": "Discover practical techniques to improve focus, manage your time and build better daily habits.",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Building Your First Portfolio",
+    "category": "Design",
+    "author": "Olivia Taylor",
+    "date": "Oct 18, 2026",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900",
+    "description": "Learn how to create a professional developer portfolio that showcases your skills, projects and experience.",
+    "featured": false
+  }
+]
